@@ -1,4 +1,4 @@
-## Music and Art Learning (MALer) Lab @ Sogang University
+## Music and Arts Learning (MALer) Lab @ Sogang University
 
 <!--
 
